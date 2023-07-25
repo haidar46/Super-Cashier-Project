@@ -208,9 +208,9 @@ class Transaction:
             is_discounted = True
             if self.total_price > 500000:
               discount = 0.1
-            if self.total_price > 300000:
+            if self.total_price > 300000 and self.total_price <= 500000:
               discount = 0.08
-            if self.total_price > 200000:
+            if self.total_price > 200000 and self.total_price <= 300000:
               discount = 0.05
 
         return is_discounted, discount
