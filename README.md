@@ -78,7 +78,8 @@ Membuat system self-service cashier dengan feature sebagai berikut :
 11.	Menghitung Total Pesanan
  
 <img width="853" alt="menghitung total pesanan" src="https://github.com/haidar46/Super-Cashier-Project/assets/138973762/ca3aab57-3f12-49d4-ba74-715e891d68b9">
-<img width="389" alt="menghitung total pesanan 2" src="https://github.com/haidar46/Super-Cashier-Project/assets/138973762/c905a39f-02f4-4874-ad48-360dd2f5c5c1">
+<img width="395" alt="menghitung total pesanan 2" src="https://github.com/haidar46/Super-Cashier-Project/assets/138973762/d875c0a3-3204-4ff6-b4f6-d5207a11916d">
+
 
 
 
